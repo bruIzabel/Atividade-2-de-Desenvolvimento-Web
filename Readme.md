@@ -116,7 +116,7 @@ npm run dev
 O backend ficará disponível em:
 
 ```text
-http://localhost:3000
+http://localhost:3001
 ```
 
 ---
